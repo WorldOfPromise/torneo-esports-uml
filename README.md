@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# torneo-esports-uml
+Entornos de Desarrollo - Tarea UML
+=======
+>>>>>>> 880e18e (Primer commit del proyecto UML)
 # Sistema de Gestión de Torneos de eSports
 
 ## Autor
@@ -53,3 +60,7 @@ torneo-esports-uml/ ├── src/
 │ ├── clases.png
 ├── README.md
 ├── .gitignore
+<<<<<<< HEAD
+=======
+>>>>>>> 54aac9b (Primer commit del proyecto UML)
+>>>>>>> 880e18e (Primer commit del proyecto UML)
